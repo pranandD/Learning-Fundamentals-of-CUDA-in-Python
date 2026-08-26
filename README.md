@@ -54,6 +54,3 @@ The [`notes/`](notes/) directory contains reference material on key GPU computin
 
 ---
 
-<div align="center">
-  <sub>Built as part of the NVIDIA Deep Learning Institute certification path.</sub>
-</div>
